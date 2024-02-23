@@ -18,13 +18,13 @@ THIS IS TASK MANAGEMENT SERVER BUILD USING NODE.JS, MONGO-DB AND TWILIO.
     ```
 
 3. **Set up Enviornment Variables**
-    - On the `.env` file add the variables:
-        ```
+     On the `.env` file add the variables:
+    ```bash
         MONGO_URL=""
         JWT=""
         TWILLO_ACCOUNT_SID=""
         TWILLO_AUTH_TOKEN=""
-        ```
+    ```
 
 ## Running the Application
 
